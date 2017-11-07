@@ -7,3 +7,8 @@ plot(y~x)
 
 
 # new comment 
+
+
+# Freddie's Edits
+y <- 1:10
+plot(y~x)
